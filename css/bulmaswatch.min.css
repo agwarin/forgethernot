@@ -1120,6 +1120,7 @@ a.box:active {
   padding-right: 0.75em;
   padding-top: calc(0.375em - 1px);
   text-align: center;
+  margin: 5px;
   white-space: nowrap; }
   .button strong {
     color: inherit; }
